@@ -1,1 +1,1 @@
-# Codeit Next.js 배포용 레포
+# Codeit Next.js 배포 연습용 레포
